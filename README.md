@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["https://i.imgur.com/Jv8w3I7.png" alt="banner" width="100%"](https://media.licdn.com/dms/image/v2/D5616AQFIMv6RM5Ri6g/profile-displaybackgroundimage-shrink_350_1400/B56ZUFgjAFHEAY-/0/1739554173383?e=1766620800&v=beta&t=-GQq0sRvO9UDLa8U7YNMMoTeo5t8qPSxToK3E-x4eTQ) />
+  <img src="C:\Users\vaibh\Downloads\1739554173383.jfif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Tripathi</h1>
@@ -15,7 +15,7 @@
 - 🎓 Pre-final year **B.Tech CSE (AI)** student  
 - 🤖 Passionate about **DSA and full-stack development**  
 - 🚀 Working on: **My Cab App**, **DSA Practice Set**  
-- 🧠 Strong in **C++**, **OOPs**,**DBMS**, **JavaScript**, **MERN Stack**  
+- 🧠 Strong in **C++**, **OOPs**, **DBMS**, **JavaScript**, **MERN Stack**  
 - 🌱 Learning **UI/UX, performance-optimized systems**  
 - 💬 Ask me about **DSA, AI, C++, MERN, Tailwind**  
 - 📍 Based in **Noida, India**
