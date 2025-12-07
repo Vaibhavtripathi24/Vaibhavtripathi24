@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Tripathi</h1>
-<h3 align="center">AI & Full-Stack Developer | B.Tech CSE (AI) @ GL Bajaj Institute of Technology & Management</h3>
+<h3 align="center">DSA & Full-Stack Developer | B.Tech CSE (AI) @ GL Bajaj Institute of Technology & Management</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhavtripathi24&label=Profile%20Views&color=blueviolet&style=flat" alt="view-count" />
