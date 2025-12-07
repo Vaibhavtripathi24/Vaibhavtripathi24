@@ -102,6 +102,13 @@ AI tool that evaluates **voice**, **dress**, **communication**, and **confidence
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaibhavtripathi24/Vaibhavtripathi24/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-tripathi9555614997" target="_blank">
