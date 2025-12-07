@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/2z8YpYB.png" alt="banner" width="100%" />
+  <img src="https://i.imgur.com/Jv8w3I7.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Tripathi</h1>
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Pre-final year **B.Tech CSE (AI)** student  
-- 🤖 Passionate about **AI, ML, full-stack development & system design**  
-- 🚀 Working on: **AI Interview Analyzer**, **My Cab App**, **DSA Practice Set**  
-- 🧠 Strong in **C++**, **Python**, **JavaScript**, **MERN Stack**  
-- 🌱 Learning **Deep Learning, UI/UX, performance-optimized systems**  
-- 💬 Ask me about **DSA, AI, C++, MERN, Tailwind, Python**  
+- 🤖 Passionate about **DSA and full-stack development**  
+- 🚀 Working on: **My Cab App**, **DSA Practice Set**  
+- 🧠 Strong in **C++**, **OOPs**,**DBMS**, **JavaScript**, **MERN Stack**  
+- 🌱 Learning **UI/UX, performance-optimized systems**  
+- 💬 Ask me about **DSA, AI, C++, MERN, Tailwind**  
 - 📍 Based in **Noida, India**
 
 ---
@@ -32,13 +32,12 @@
   - Campus Ambassador @ **Physics Wallah**  
   - Member of **PW School of Startups Fellowship**
 
-- 🛠 **Built Practical Projects**  
-  - AI Interview Analyzer (evaluates voice, dress, communication, confidence)  
+- 🛠 **Built Practical Projects**   
   - My Cab App Landing Page  
   - DSA Problem Set (C++ focused)  
 
 - 🚀 **Future Goals**  
-  - Become an AI Engineer  
+  - Become an Software Engineer  
   - Master System Design & Scalable Web Apps  
   - Build impactful AI-powered real-world solutions  
 
